@@ -1,2 +1,2 @@
-# Java-Array
+# Java-Core
 Java 2D Array
